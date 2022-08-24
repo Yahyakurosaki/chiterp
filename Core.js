@@ -1266,8 +1266,8 @@ const ftroli = {
   },
   message: { 
   "videoMessage": { 
-  "title": `${global.BotName}`,
-  "h": `${global.OwnerName}`,
+  "title": `${global.kurosaki}`,
+  "h": `${global.kurosaki}`,
   'seconds': '30', 
   'caption': `${global.WaterMark}`,
   'jpegThumbnail': BotLogo
@@ -1284,8 +1284,8 @@ const ftroli = {
   "message": {
   "groupInviteMessage": {
   "groupJid": "916909137213-1616169743@g.us",
-  "inviteCode": `${global.OwnerName}`,
-  "groupName": `${global.BotName}`, 
+  "inviteCode": `${global.kurosaki}`,
+  "groupName": `${global.kurosaki}`, 
   "caption":`${global.WaterMark}`, 
   'jpegThumbnail': BotLogo
   }
@@ -1300,8 +1300,8 @@ const ftroli = {
   },
   message: { 
    "videoMessage": { 
-   "title":`${global.BotName}`,
-   "h": `${global.OwnerName}`,
+   "title":`${global.kurosaki}`,
+   "h": `${global.kurosaki}`,
    'seconds': "30", 
    'gifPlayback': 'true', 
    'caption': `${global.WaterMark}`,
@@ -1318,8 +1318,8 @@ const ftroli = {
   },
   message: { 
   "extendedTextMessage": {
-   "text":`${global.OwnerName}`,
-  "title": `${global.BotName}`,
+   "text":`${global.kurosaki}`,
+  "title": `${global.kurosaki}`,
    'jpegThumbnail': BotLogo
   }
   } 
